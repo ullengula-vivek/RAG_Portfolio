@@ -1,0 +1,68 @@
+Vivek Ullengula
+ LinkedIn | 
+Hyderabad, India | 
+vivekullengula77@gmail.com | 8106101003 | 
+GitHub
+ Professional Summary
+ Frontend Engineer with 2+ years of professional experience designing, developing, and deploying high
+performance user interfaces using React.js. Expertise in building scalable, maintainable solutions with modern
+ JavaScript (ES6+), state management, and RESTful API integrations. Proven ability to optimize site
+ performance, collaborate with cross-functional teams, and deliver exceptional user experiences through clean,
+ efficient code.
+ Technical Skills
+ Frontend Expertise: React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Design
+ State Management: Redux, Context API
+ API Integration: RESTful APIs, AJAX, GraphQL basics
+ Testing: Jest, React Testing Library
+ Tools & DevOps: Git, Docker, CI/CD, AWS basics
+ Backend: Node.js, Express, FastAPI
+ Databases: MySQL, MongoDB
+ Professional Experience
+ Zennial Pro – Frontend Engineer
+ Hyderabad | Apr 2025 – Present
+ Design, develop, and deploy high-performance user interfaces using React.js for internal automation tools
+ and dashboards
+ Implement state management solutions using Redux and Context API to ensure data consistency and
+ efficient updates across components
+ Build and maintain a library of reusable React components, improving code maintainability and
+ development efficiency by 30%
+ Identify and resolve performance bottlenecks, optimizing site speed and user experience through code
+ profiling and efficient resource usage
+ Design and implement API integrations using RESTful principles and AJAX for efficient data exchange
+ between frontend and backend services
+Write and maintain unit and integration tests using Jest and React Testing Library to ensure code quality
+ and reliability
+ Conduct thorough code reviews and promote automated testing practices for continuous quality
+ improvement
+ Collaborate with designers, backend engineers, and product teams to deliver high-quality, user-centric
+ products
+ Proactively debug and resolve production issues, leveraging analytical skills to maintain system uptime
+ Work with Docker for containerized deployments and contribute to CI/CD pipeline improvements
+ Tata Consultancy Services (TCS) – Frontend Developer (MERN Stack)
+ Hyderabad | Apr 2021 – Jan 2023
+ Developed and maintained scalable frontend applications using React.js for enterprise clients with millions
+ of users
+ Applied performance optimization techniques to improve web application efficiency, reducing load times
+ by 25%
+ Implemented responsive design principles and CSS frameworks to build modern, user-friendly interfaces
+ Integrated RESTful APIs with frontend components using AJAX for seamless backend communication
+ Utilized Git for version control and collaborated effectively in cross-functional Agile teams
+ Wrote maintainable, well-documented code following best practices and design patterns
+ Demonstrated strong problem-solving and debugging skills to deliver robust solutions on tight deadlines
+ Key Projects
+ Employee Leave & Payroll Dashboard (React.js + Redux + FastAPI)
+ Designed and developed a high-performance dashboard with complex state management using Redux.
+ Implemented RESTful API integrations, optimized rendering performance for large datasets, and created
+ comprehensive unit tests using Jest. Built responsive UI components ensuring consistency across the
+ application.
+ Portfolio & Task Management Application (React.js + Node.js)
+ Built a scalable frontend application with Context API for state management and AJAX for API communication.
+ Developed reusable component library, implemented performance optimizations, and ensured responsive design
+ across devices. Wrote integration tests to maintain code quality.
+ Education
+ B.Tech – Computer Science & Engineering
+TKR College of Engineering & Technology, Hyderabad | 2020
+ Core Competencies
+ React.js Development • Performance Optimization • State Management (Redux/Context API) • RESTful API
+ Integration • Responsive Design • Unit & Integration Testing • Code Reviews • Cross-functional Collaboration •
+ Problem Solving • Version Control (Git
