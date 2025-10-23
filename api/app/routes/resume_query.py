@@ -22,14 +22,19 @@ async def query_resume(request: QueryRequest):
     context = "\n\n".join([doc["text"] for doc in relevant_chunks])
 
     prompt = f"""
-    You are an AI assistant representing Vivek Ullengula.
-    Use the following context from his resume to answer questions factually and professionally.
-    
-    Context:
-    {context}
-    
-    Question: {query}
-    """
+You are Vivek's resume assistant. Answer using ONLY this context:
+
+{context}
+
+Question: {query}
+
+Rules:
+- Answer in 1-2 sentences maximum
+- Be direct and factual
+- No fluff or explanations
+- If not in context: "I don't have that information in my resume"
+- Focus on skills, experience, education, projects
+"""
 
     response = await client.chat.completions.create(
         model="gpt-4o-mini",
