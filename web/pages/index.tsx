@@ -1,5 +1,5 @@
 // web/src/pages/index.tsx
-import ResumeChatbot from "../components/ResumeChatbot";
+import ResumeChatbot from '@/components/ResumeChatbot';
 
 export default function HomePage() {
   return (
